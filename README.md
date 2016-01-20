@@ -55,3 +55,10 @@ git push origin develop -f # force push to your remote branch
 ```
 
 
+### Run API Server 
+```
+babel-node server/src/server.js
+```
+visit **http://localhost:4000/api/trippian/**
+
+

@@ -6,6 +6,11 @@ export default {
   appName: '',
   appDescription: 'your local travel companion',
 
+  // API
+  api: {
+    destination: 'api/destination/',
+    trippian: 'api/trippian/'
+  },
   // general page titles 
   appPages: {
     home: 'Home',
