@@ -18,7 +18,7 @@ from '../actionCreators'
 
 
 import {
-  apologize, alertSuccess, alertInfo
+  apologize, alertSuccess, alertInfo, resetState
 }
 from '../../utils/storeUtils'
 
@@ -390,6 +390,7 @@ export function logout() {
         console.log('---logged out')
           // dispatch(updateVote(vote, tripId))
           // TODO: update state 
+        setAppStateUser(false)
         alertSuccess('Successfully logged out', window.document.cookie)
       })
       .catch(error => apologize(error))
