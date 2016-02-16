@@ -13,6 +13,7 @@
 Trippian is a responsive web app created by four talented Full Stack Software Engineers: [Audrey Li](https://github.com/vidaaudrey), [Joe Lagasse](https://github.com/jlag34), [Yale Yuen](https://github.com/ycube), and [Elliot Chi](https://github.com/elliotschi). Our mission is to connect passionate travelers with the best trip companions around the world. 
 
 Check us now at [www.trippian.com](http://trippian.com)  
+### 3 Minutes Introduction
 [![Trippian - Find Your Local Trip Companion ](http://img.youtube.com/vi/PMXk_eTZx5g/0.jpg)](https://www.youtube.com/watch?v=PMXk_eTZx5g)
 
 ![Screenshot](https://raw.githubusercontent.com/vidaaudrey/trippian/master/_planning/info/trippian.com.png)
